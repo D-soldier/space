@@ -1,0 +1,8 @@
+{
+  "name": "space",
+  "version": "0.0.1",
+  "description": "a photo show space",
+  "main": "index.js",
+  "author": "D-fenqi <gclisp_program@yeah.net>",
+  "license": "MIT"
+}
